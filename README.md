@@ -49,7 +49,7 @@ Final Project for GA SEI Bootcamp
 ## **_Getting Started_**
 
 - Trello Board [here](https://trello.com/b/0LGswtn6/final-project).
-
+- Wireframe Board [here](https://whimsical.com/wireframe-final-project-TenYfeG4E8UCq1ME3VN9mz).
 <br>
 
 ---
@@ -76,7 +76,7 @@ Final Project for GA SEI Bootcamp
 
 <details>
  <summary>Entity Relationship Diagram</summary>
-  (https://whimsical.com/final-project-GN2hfSWSq9Uj55yJWbPMCW)
+  [here](https://whimsical.com/final-project-GN2hfSWSq9Uj55yJWbPMCW)
 </details>
 <br>
 
