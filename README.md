@@ -76,7 +76,7 @@ Final Project for GA SEI Bootcamp
 
 <details>
  <summary>Entity Relationship Diagram</summary>
-  <img src="images/erd_journeymate.png" name="image-name">
+  (https://whimsical.com/final-project-GN2hfSWSq9Uj55yJWbPMCW)
 </details>
 <br>
 
